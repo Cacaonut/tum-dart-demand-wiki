@@ -1,7 +1,7 @@
 > [!NOTE]
 > This repository is a public copy of the DART demand model documentation. If you wish to access the source code, please reach out to the responsible person as given below.
 
-# <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Logo_of_the_Technical_University_of_Munich.svg" height="24">&ensp;DART demand model
+# <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Logo_of_the_Technical_University_of_Munich.svg"  width="44">&ensp;DART demand model
 
 This repository contains the demand modeling framework developed under the DART project by the Technical University of Munich (TUM) in Singapore. The framework integrates farecard data with housing and land-use datasets to model travel demand, with a focus on simulating on-demand mobility services. For more details, please refer to the [Wiki](https://github.com/Cacaonut/tum-dart-demand-wiki/wiki).
 
